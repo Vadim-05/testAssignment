@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Europe",
+            "children": [
+                {
+                    "id": "1-1",
+                    "name": "Ukraine",
+                    "children": [
+                        {
+                            "id": "1-1-1",
+                            "name": "Kyiv"
+                        },
+                        {
+                            "id": "1-1-2",
+                            "name": "Lviv"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-2",
+                    "name": "France"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Asia",
+            "children": [
+                {
+                    "id": "2-1",
+                    "name": "China"
+                },
+                {
+                    "id": "2-2",
+                    "name": "Japan"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Nigeria"
+        }
+    ]
+}
